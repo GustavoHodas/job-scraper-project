@@ -32,8 +32,11 @@ It collects data from a website and stores it in a structured format (CSV), enab
 ## 📂 Project Structure
 job-scraper-project/
 │
+
 ├── main.py
+
 ├── quotes.csv
+
 └── README.md
 
 ## ▶️ How to Run
